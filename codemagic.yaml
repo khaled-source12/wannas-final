@@ -9,7 +9,7 @@ workflows:
       vars:
         PACKAGE_NAME: "com.wannas.app"
     scripts:
-           - name: Build Android release
+      - name: Build Android release
         script: |
           cd android
           bash gradlew bundleRelease
