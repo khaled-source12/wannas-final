@@ -1,0 +1,13 @@
+{
+	"appId": "com.wannas.app",
+	"appName": "Wannas",
+	"webDir": "dist-cap",
+	"server": {
+		"androidScheme": "https"
+	},
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 0
+		}
+	}
+}
